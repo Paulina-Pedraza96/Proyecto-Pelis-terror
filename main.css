@@ -1,0 +1,32 @@
+form fieldset {
+    border: 2px red #ff6347;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+form legend {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ff6347;
+}
+
+form label {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    display: block;
+}
+
+form button {
+    margin-top: 1rem;
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+form button:hover {
+    background-color: #e55342;
+}
